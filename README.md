@@ -5,3 +5,7 @@
 * [Functions](https://github.com/himanshuramteke/Dev-Notes/blob/main/Function_DRY_RUN_Notes.pdf)
 * [Function-Expression](https://github.com/himanshuramteke/Dev-Notes/blob/main/Function_Expressions.pdf)
 * [HOF-and-Callbacks](https://github.com/himanshuramteke/Dev-Notes/blob/main/HOF-and-Callbacks.pdf)
+* [Async-JS-1](https://github.com/himanshuramteke/Dev-Notes/blob/main/Async-Js-1.pdf)
+* [Async-JS-2](https://github.com/himanshuramteke/Dev-Notes/blob/main/Async-Js-2.pdf)
+* [Events-in-JS](https://github.com/himanshuramteke/Dev-Notes/blob/main/Events%20In%20JS.pdf)
+* [Promises](https://github.com/himanshuramteke/Dev-Notes/blob/main/Promises-JS.pdf)
