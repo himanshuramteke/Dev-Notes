@@ -15,3 +15,5 @@
 * [Mutability-and-Immutability](https://github.com/himanshuramteke/Dev-Notes/blob/main/Mutability_and_Immutability_in_JS.pdf)
 * [Scopes-DRY-Run](https://github.com/himanshuramteke/Dev-Notes/blob/main/Scopes_DRY-RUN_Notes.pdf)
 * [ToPrimitive](https://github.com/himanshuramteke/Dev-Notes/blob/main/ToPrimitive.pdf)
+* [Dom-Manipulation](https://github.com/himanshuramteke/Dev-Notes/blob/main/DOM%20Manipulation%202.pdf)
+* [Scopes](https://github.com/himanshuramteke/Dev-Notes/blob/main/scopes_in_JS_notes.pdf)
